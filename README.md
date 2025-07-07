@@ -3,15 +3,13 @@
 
 
 ## 👽 Howdy!  
-I’m **Asa** (they/them). I’m chaotically paving my way through game dev and data science.  
-No degree, no certs. Just raw curiosity, intense passion, and an ever-growing library of weird little projects.
-
+I’m **Asa** (they/them)
 ---
 
 ## > current_mission
 
 - **Game dev:** Unity (C#), Python (Tkinter), SQLite3  
-- **Data science:** leaning toward analysis/engineering — what can I say, I find messy data interesting  
+- **Data science:** leaning toward data analysis/engineering — what can I say, I find messy data interesting  
 - Currently building *The Village*, a text-based horror game nested inside a cursed Windows 95 desktop
 
 ---
