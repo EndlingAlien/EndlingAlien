@@ -9,7 +9,7 @@ I’m **Asa** (they/them)
 ## > current_mission
 
 - **Game dev:** Unity (C#), Python (Tkinter), SQLite3  
-- **Data science:** leaning toward data analysis/engineering — what can I say, I find messy data interesting  
+- **Data science:** leaning toward data analysis/engineering (what can I say, I find messy data interesting) 
 - Currently building *The Village*, a text-based horror game nested inside a cursed Windows 95 desktop
 
 ---
@@ -35,7 +35,7 @@ If you’re looking for polish, scroll down. If you’re looking for soul, you�
 
 ## > signature_moves
 
-- Creating environments that feel *tangible*—whether creepy, cozy, or cosmic  
+- Creating environments that feel *tangible*, whether creepy, cozy, or cosmic  
 - Hiding aliens in my stories like Easter eggs
 
 ---
@@ -67,10 +67,10 @@ Immersion is everything. That’s the fingerprint I want to leave behind.
 I apply this to every line of code I write. There’s no harm in failing, no harm in reviewing, and definitely no harm in trying.
 
 **Do it scared.**  
-You could avoid it—sure, that would be easier—or you could do it anyway and watch courage find its way to you.
+Courage and strength come after the doing, not before.
 
 **“There’s no free lunch.”** — Grandpa  
-You want something? Earn it. How? The only way: with good, honest, hard work.
+You want something? Earn it. How? The only way: good, honest, hard work.
 
 ---
 
